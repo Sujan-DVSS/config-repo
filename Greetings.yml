@@ -1,3 +1,5 @@
+my:
+ greeting: Welcome to Greetings MicroService
 app:
   name: Config-server test app
   description: Welcome to ${app.name}
